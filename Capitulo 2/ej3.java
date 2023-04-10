@@ -12,9 +12,5 @@ public class ej1 {
 		if (a>b){
 			System.out.println("El numero "+ a+" es mayor que "+b);
 		}else{
-			if (b>a){
-			System.out.println("El numero "+ b+" es mayor que "+a);
-		}else{
-			System.out.println("Los numeros son iguales");
-		}
+			System.out.println("El numero "+ b+" es mayor que "+a);	
 }}}
